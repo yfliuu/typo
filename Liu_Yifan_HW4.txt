@@ -1,0 +1,2 @@
+Github: https://github.com/yfliuu/typo
+Heroku: https://infinite-coast-48791.herokuapp.com
